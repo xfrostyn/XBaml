@@ -1,4 +1,4 @@
-This is an editor for LEGO City Undercover's BAML files.
+This is an editor for LEGO City Undercover's BAML files. You do need python to use this!
 
 **What is a BAML File?**
 BAML is a binary UI layout and animation format. BAML files can also contain animations made of timed keyframes. These animate properties such as position, scale, rotation and opacity.
