@@ -6,4 +6,3 @@ BAML is a binary UI layout and animation format. BAML files can also contain ani
 There is little Lock and Hide buttons and u can change the BG to whatever u want. 
 You can also delete and select multiple stuff. If there is any bugs, tell me straight away,
 i hope you guys like it, and i dont know if the new feature works. 
-![My Image]([https://i.postimg.cc/abcdef/image.png](https://postimg.cc/bdj7hR7f))
